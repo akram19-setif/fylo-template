@@ -312,8 +312,7 @@ header a:hover {
   background-color: var(--testimonials-color);
   padding: 30px 10px 30px 25px;
   z-index: 2;
-  max-width: 85%;
-  margin: auto;
+  max-width: 90%;
   -webkit-box-shadow: 5px 3px 3px 4px #38333336;
   box-shadow: 5px 3px 3px 4px #38333336;
 }
