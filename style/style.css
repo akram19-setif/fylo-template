@@ -140,7 +140,7 @@ header a:hover {
   bottom: -68px;
   left: 0px;
   z-index: -1;
-  background-image: url("/images/bg-curvy-desktop.svg");
+  background-image: url('/images/bg-curvy-desktop.svg');
   background-size: cover;
 }
 @media (max-width: 371px) {
@@ -148,7 +148,7 @@ header a:hover {
     height: 136px;
     top: -50px;
     left: 10px;
-    background-image: url("/images/bg-curvy-mobile.svg");
+    background-image: url('/images/bg-curvy-mobile.svg');
   }
   .get-started::after {
     content: "";
